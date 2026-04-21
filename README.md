@@ -35,6 +35,12 @@ Seasonal Trends: May 2023 was the most successful month for the business, follow
 Tools Used
 Programming Language: Databricks (SQL)
 
-PowerBI: * Pandas: For data manipulation and aggregation.
+PowerBI:  for visualazation 
 
 Data Format: CSV (Comma Separated Values)
+
+
+Created by Belinda N Madzhie 
+email : madzhielinda@gmail.com, 
+Linkdenhttps://www.linkedin.com/in/belinda-n-madzhie-30a80429/
+
